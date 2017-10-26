@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>TeamA</title>
-<!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+	<title>TeamA</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <br><br>
 <h1>Hangman</h1>
